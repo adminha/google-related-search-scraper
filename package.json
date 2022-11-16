@@ -1,0 +1,30 @@
+{
+  "name": "google-related-search-scraper",
+  "version": "1.0.0",
+  "description": "Goole related searches keywords scraper - Crawl google related search queries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adminha/google-related-searches-scraper.git"
+  },
+  "keywords": [
+    "google",
+    "search",
+    "related",
+    "queries",
+    "people",
+    "also",
+    "ask",
+    "scraper",
+    "crawler"
+  ],
+  "author": "Mostafa Safarian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adminha/google-related-searches-scraper/issues"
+  },
+  "homepage": "https://github.com/adminha/google-related-searches-scraper#readme"
+}
